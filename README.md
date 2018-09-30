@@ -4,3 +4,7 @@
 1.打开chome扩展程序
 2.把test.user.js拖到扩展程序
 3.刷新网页
+
+代码
+var child=document.getElementById("cpro_u2734133");
+child.parentNode.removeChild(child);
